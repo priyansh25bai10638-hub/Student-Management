@@ -1,5 +1,5 @@
-Student Management System - Project Statement
-Problem Statement
+# Student Management System - Project Statement
+## Problem Statement
 Educational institutions face the challenge of efficiently managing student information in an organized and accessible manner. Traditional paper-based record systems or basic spreadsheet solutions often lead to:
 
 Data redundancy and inconsistency
@@ -14,7 +14,7 @@ Error-prone manual processes for calculating and tracking student performance
 
 This Student Management System addresses these challenges by providing a streamlined, command-line based solution that enables educational staff to efficiently manage student records, track academic performance, and perform essential administrative tasks with minimal effort and reduced errors.
 
-Scope of the Project
+## Scope of the Project
 In-Scope
 Student Information Management: Core functionality for storing and managing basic student details including name, roll number, and academic marks
 
@@ -47,7 +47,7 @@ Backup and Recovery: No data backup or recovery mechanisms
 
 Graphical Interface: No GUI implementation (command-line only)
 
-Target Users
+## Target Users
 Primary Users
 Educational Administrators
 
@@ -67,7 +67,7 @@ Tutoring centers, small schools, or coaching classes with limited student popula
 
 Institutions requiring a simple, no-frills student management solution
 
-User Characteristics
+## User Characteristics
 Technical Proficiency: Basic computer literacy and comfort with command-line interfaces
 
 Administrative Role: Users involved in student data management and academic administration
@@ -76,7 +76,7 @@ Small-scale Operations: Suitable for managing up to few hundred student records
 
 Immediate Needs: Users requiring quick access and simple operations without complex setup
 
-High-Level Features
+## High-Level Features
 1. Student Record Management
 Add New Students: Create and store new student records with unique roll numbers
 
