@@ -1,11 +1,11 @@
 # Student-Management
-Project Title
-Student Management System
+## Project Title
+## Student Management System
 
-Overview
+## Overview
 A simple Python-based command-line application for managing student records. This system allows users to perform basic CRUD (Create, Read, Update, Delete) operations on student data, including adding new students, viewing all records, searching by roll number, updating information, and deleting records.
 
-Features
+## Features
 Add New Students: Create new student records with name, roll number, and marks for two subjects
 
 View All Records: Display all student records in a formatted manner
@@ -20,7 +20,7 @@ Duplicate Prevention: System prevents adding students with duplicate roll number
 
 Input Validation: Basic validation for user inputs
 
-Technologies/Tools Used
+## Technologies/Tools Used
 Programming Language: Python 3.x
 
 Core Libraries: Standard Python libraries (no external dependencies)
@@ -29,13 +29,13 @@ Data Structure: Lists and custom classes
 
 Paradigm: Object-Oriented Programming (OOP)
 
-Steps to Install & Run the Project
+## Steps to Install & Run the Project
 Prerequisites
 Python 3.x installed on your system
 
 Basic command-line interface knowledge
 
-Installation Steps
+## Installation Steps
 Download the Code
 
 Save the provided Python code as student_management.py
@@ -56,7 +56,7 @@ or
 
 bash
 python3 student_management.py
-Instructions for Testing
+## Instructions for Testing
 Testing the Application
 Start the Application
 
